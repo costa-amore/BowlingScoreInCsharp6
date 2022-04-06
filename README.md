@@ -22,7 +22,7 @@ Suggested Test body structures
         [Test]        
         public void Test1()
         {
-            Assert.That(new Something(false).CanFly, Is.EqualTo(true));
+            Assert.That(new Something().CanFly, Is.EqualTo(true));
         }
 
         [TestCase(false)]        
