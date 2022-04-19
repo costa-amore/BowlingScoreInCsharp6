@@ -9,7 +9,7 @@ Find Kata guidance here : https://docs.google.com/presentation/d/1oyKAP6_XVzAcWc
 Suggested shortcuts (VS 2022)
 .............................
 
- - run all tests : CTRL T, A
+ - run all tests : CTRL R, A
  - commit        : ALT   , G     , C
  - rename        : CTRL R, CTRL R
  - Extract Method: CTRL R, CTRL M
